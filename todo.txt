@@ -1,1 +1,1 @@
-1. Learn few lessons about git
+2. Continue learning git
